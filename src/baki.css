@@ -1,0 +1,67 @@
+.hanama{
+    height:  550px;
+    margin-left: 20px;
+  }
+   .Carton{
+     display:flex;
+     
+   }
+   .yuji{
+    margin-left: 20px;
+   }
+    .sa{
+      margin-left: 20px;
+      color: gray;
+    }
+   h1{
+    display: inline;
+   }
+  p{
+    margin-left: 20px;
+  }
+  .one{
+    background-color: rgb(77, 77, 245);
+    margin-left: 20px;
+  }
+  .two{
+    background-color: aqua;
+    margin-left: 20px;
+  }
+  .tree{
+    margin-left: 20px;
+    background-color: green;
+  }
+  h2{
+    margin-left: 20px;
+  }
+  li{
+    margin-left: 20px;
+    text-decoration: none;
+  }
+   .ghuvi{
+    margin-left: 20px;
+    width: 150px;
+  }
+   .uno{
+    display: flex;
+   }
+   .uma{
+    margin-top: 30px;
+   }
+   button{
+    margin-left: 20px;
+    background-color: yellow;
+    border: none;
+    width: 120px;
+    height: 40px;
+   }
+   hr{
+    width: 80%;
+    margin-left: 150px;
+   }
+   .azert{
+    width: 500px;
+    height: 250px;
+
+    margin-top: 50px;
+   }
